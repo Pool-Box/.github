@@ -24,7 +24,7 @@ Welcome to Pool-Box. We develop R packages and web apps to analyse pool-tested d
 ⭐ Features:
   - Power and sample size calculations
   - Design optimisation tools for surveys using pool testing
-  - 
+
 💻 Visit the [PoolPoweR  GitHub repository](https://github.com/AngusMcLure/PoolPoweR)
 
 ### PoolTools
